@@ -27,15 +27,4 @@ Include information about the license under which your project is distributed. I
 ## Style
 For your GitHub Pages, you can customize the styling to make it more visually appealing. You can create a `style.css` file in your repository and link it to your HTML files. Here's an example:
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <h1>Welcome to My GitHub Pages!</h1>
-  <p>This is my project description.</p>
-</body>
-</html>
 
